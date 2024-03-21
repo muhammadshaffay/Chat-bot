@@ -1,6 +1,3 @@
-# AI Junior Developer (Intern) Test 
-Welcome! and thank you for applying! 
-
 ## Requirement
 The current project has the blueprint structure of an AI App. 
 
